@@ -11,7 +11,7 @@
 Kas notika, kad svētajā zemē Kurukšetrā pirms kaujas satikās mani dēli un Pāndū dēli?
 
 
-####1.2
+#### 1.2
 
 स य उवाच ।
 ्वा तु पा डवानीकं ूढं य धन तदा ।
