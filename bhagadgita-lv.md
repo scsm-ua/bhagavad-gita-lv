@@ -124,7 +124,6 @@ Vēloties iedvesmot Durjodhanu, Bhı̄šma, Kurū dinastijas vecākais, sā
 
 1.13
 
-
 ततः शङ्खा भे य पणवानकगोमुखाः ।
 
 सहसैवा यह य त सश द तुमुलोऽभवत्॥१३॥
