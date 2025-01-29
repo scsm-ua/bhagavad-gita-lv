@@ -6,9 +6,10 @@
 
     dhṛtarāṣṭra uvāča
     dharma-kṣetre kuru-kṣetre samavetā jujutsavaḥ
-    māmakāḥ pāṇḍavāś čaiva kim akurvata sañdžaja Dhritarāštra sacı̄ja: Sandžaja! 
+    māmakāḥ pāṇḍavāś čaiva kim akurvata sañdžaja 
     
-Kas notika, kad svētajā zemē Kurukšetrā pirms kaujas satikās mani dēli un Pāndū dēli?
+Dhritarāštra sacı̄ja:   
+Sandžaja! Kas notika, kad svētajā zemē Kurukšetrā pirms kaujas satikās mani dēli un Pāndū dēli?
 
 
 #### 1.2
@@ -29,19 +30,20 @@ Pārlaižot skatienu pāri Pāndavu armijas kareivjiem, kas bija izkārtoju
 kaujas ierindā, valdnieks Durjodhana pietuvojās savam skolotājam Dronāčārjam un vērsās pie vin̦a ar sekojošiem vārdiem.
 
 
-1.3
+#### 1.3
 
-प यैतां पा डुपु ाणामाचा य मलत चमूम् ।
+> प यैतां पा डुपु ाणामाचा य मलत चमूम् ।
 ूढां पदपु ेण तव श येण धीमता ॥३॥
 
-paśjaitāṁ pāṇḍu-putrāṇām āčārja mahatı̄ṁ čamūm vjūḍhāṁ drupada-putreṇa tava śiṣjeṇa dhı̄matā
+  paśjaitāṁ pāṇḍu-putrāṇām āčārja mahatı̄ṁ čamūm 
+  vjūḍhāṁ drupada-putreṇa tava śiṣjeṇa dhı̄matā
 
 Skolotāj! Palūkojies uz Pāndavu vareno karapulku, kuru kaujas ierindā izkārtojis tavs izcilais skolnieks Dhrištadjumna, Drupadas dēls.
 
+
+#### 1.4-6
+
 अ शूरा मले वासा भीमा ुनसमा यु ध ।
-
-1.4-6
-
 चच ॥४॥
 
 धृ केतु े कतानः का शराज वी यवान् ।
