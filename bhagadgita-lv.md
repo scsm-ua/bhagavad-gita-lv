@@ -6,15 +6,14 @@
 
 #### 1.1
 
-> 
-धृतराष्ट्र उवाच\
-> 
-धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सव: ।\
-> 
-मामका: पाण्डवाश्चैव किमकुर्वत सञ्जय ॥ १ ॥
+> धृतराष्ट्र उवाच\
+> धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सव: ।\
+> मामका: पाण्डवाश्चैव किमकुर्वत सञ्जय ॥ १ ॥
+
     dhṛtarāṣṭra uvāča
     dharma-kṣetre kuru-kṣetre samavetā jujutsavaḥ
     māmakāḥ pāṇḍavāś čaiva kim akurvata sañdžaja 
+    
 Dhritarāštra sacı̄ja:   
 Sandžaja! Kas notika, kad svētajā zemē Kurukšetrā pirms kaujas satikās mani dēli un Pāndū dēli?
 
