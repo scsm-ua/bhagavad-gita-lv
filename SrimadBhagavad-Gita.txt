@@ -3,22 +3,14 @@ Bhagavad-gīta
 austrumu gudrības pērle apslēptās nozīmes skaidrojums
 
 
-
-
-
 Svāmī B. R. Šrīdhārs
-
-
 
 
 Šrī Čaitanja Sarasvat Maths
 
 
 
-
-
 2025
-
 
 
 
@@ -28,12 +20,7 @@ tas, ko tu meklē, eksistē.
 
 
 
-
-
 Svāmī B.R. Šrīdhārs
-
-
-
 
 
 Šrīla Bhakti Bimal
@@ -44,15 +31,11 @@ Mahārādža
 
 
 
-
-
 Šrīla Bhakti Sundar
 
 Govinda Dēv-Gosvāmī
 
 Mahārādža
-
-
 
 
 
@@ -73,20 +56,10 @@ Mahārādža
 Sevaite-prezidents-āčārja: Vin̦a Dievišk̦ā Zēlastı̄ba Srı̄la Bhakti Sundar
 
 
-
-
-
-Govinda Dev-Gosvāmı̄
-
-Mahārādža
+Govinda Dev-Gosvāmı̄ Mahārādža
 
 Grāmata tiek publicēta ar Vin̦a Dievišk̦ās Zēlastı̄bas, Srı̄las Bhakti Bimal Avadhūta Mahārādža svētı̄bu.
 
-
-
-
-
-5
 
 
 Saturs Latviskā izdevuma priekšvārds 8
@@ -4831,22 +4804,14 @@ adžo nitjaḥ śāśvato ’jaṁ purāṇo na hanjate hanjamāne śarı
 
 
 
-2.21
+### 2.21
 
 
 कथं स पु षः पाथ कं घातय त ह त कम् ॥२१॥
 
-vedāvināśinaṁ nitjaṁ ja enam adžam avjajam kathaṁ sa puruṣaḥ pārtha kaṁ ghātajati hanti kam Pārtha, kā gan var kāds, kurš zina, ka nedzimusı̄ dvēsele ir mūžı̄ga, nemainı̄ga
+vedāvināśinaṁ nitjaṁ ja enam adžam avjajam kathaṁ sa puruṣaḥ pārtha kaṁ ghātajati hanti kam 
 
-
-
-
-
-un
-
-neiznı̄cināma,
-
-nogalināt kādu vai kl̦ūt par cēloni kāda nāvei?
+####Pārtha, kā gan var kāds, kurš zina, ka nedzimusı̄ dvēsele ir mūžı̄ga, nemainı̄ga un neiznı̄cināma, nogalināt kādu vai kl̦ūt par cēloni kāda nāvei?
 
 वासां स जीणा न यथा वहाय
 
