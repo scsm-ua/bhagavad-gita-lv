@@ -1,4 +1,4 @@
-# 1 nodaļa
+# 1. nodaļa
 
 ## Armiju apskate
 
