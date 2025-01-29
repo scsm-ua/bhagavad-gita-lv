@@ -1,4 +1,4 @@
-#### 1.1
+#### #### 1.1
 > धृतराष्ट्र उवाच\
 > धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सव: ।\
 > मामका: पाण्डवाश्चैव किमकुर्वत सञ्जय ॥ १ ॥
@@ -7,7 +7,7 @@
     māmakāḥ pāṇḍavāś čaiva kim akurvata sañdžaja 
 Dhritarāštra sacı̄ja:   
 Sandžaja! Kas notika, kad svētajā zemē Kurukšetrā pirms kaujas satikās mani dēli un Pāndū dēli?
-#### 1.2
+#### #### 1.2
 > सञ्जय उवाच\
 > दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\
 > आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥ २ ॥
@@ -16,13 +16,13 @@ Sandžaja! Kas notika, kad svētajā zemē Kurukšetrā pirms kaujas satik
     āčārjam upasaṅgamja rādžā vačanam abravı̄t 
 Sandžaja atbildēja:   
 Pārlaižot skatienu pāri Pāndavu armijas kareivjiem, kas bija izkārtojušies kaujas ierindā, valdnieks Durjodhana pietuvojās savam skolotājam Dronāčārjam un vērsās pie vin̦a ar sekojošiem vārdiem.
-#### 1.3
+#### #### 1.3
 > पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।\
 > व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥ ३ ॥
     paśjaitāṁ pāṇḍu-putrāṇām āčārja mahatı̄ṁ čamūm 
     vjūḍhāṁ drupada-putreṇa tava śiṣjeṇa dhı̄matā
 Skolotāj! Palūkojies uz Pāndavu vareno karapulku, kuru kaujas ierindā izkārtojis tavs izcilais skolnieks Dhrištadjumna, Drupadas dēls.
-#### 1.4-6
+#### #### 1.4-6
 > अत्र श‍ूरा महेष्वासा भीमार्जुनसमा युधि ।\
 > युयुधानो विराटश्च द्रुपदश्च महारथः ॥ ४ ॥
 > धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् ।\
@@ -36,13 +36,13 @@ Skolotāj! Palūkojies uz Pāndavu vareno karapulku, kuru kaujas ierindā iz
     judhāmanjuś ča vikrānta uttamaudžāś ča vı̄rjavān 
     saubhadro draupadejāś ča sarva eva mahā-rathāḥ
 Šajā armijā ir dižie loka šāvēji Bhı̄ma un Ardžūna, kā arı̄ citi tik pat prasmı̄gi kareivji: Satjakı̄, valdnieks Virata, varenais karotājs Drupada, Dhrištaketū, Cekitāna, varonı̄gais rādža Kašı̄, Purūdžita, Kuntibhodža, cēlais rādža Saibja, drosmı̄gais Judhāmanjū, dižais varonis Uttamaudža, Abhimanjū un Draupadı̄ dēli. Bez šaubām, visi vin̦i ir diži kareivji.
-#### 1.7
+#### #### 1.7
 > अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।\
 > नायका मम सैन्यस्य संज्ञार्थ तान्ब्रवीमि ते ॥ ७ ॥
     asmākaṁ tu viśiṣṭā je tān nibodha dvidžottama 
     nājakā mama sainjasja saṁdžñārthaṁ tān bravı̄mi te 
 Labākais no divreiz dzimušajiem, uzklausi tagad arı̄ manas armijas izcilākos vadon̦us. Es nosaukšu tev vin̦u vārdus!
-#### 1.8-9
+#### #### 1.8-9
 > भवान्भीष्मश्च कर्णश्च कृपश्च समितिंजयः ।\
 > अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥ ८ ॥
 > अन्ये च बहवः श‍ूरा मदर्थे त्यक्तजीविताः ।\
@@ -53,19 +53,19 @@ Labākais no divreiz dzimušajiem, uzklausi tagad arı̄ manas armijas izcila�
     nānā-śastra-praharaṇāḥ sarve juddha-viśāradāḥ
 Neskaitot tevi, ak, godājamais, tie ir Bhı̄šma un sakāvi Kripāčārjas kaujā neiepazinošais Karna, kā
 arı̄ Ašvatthāma, Vikarna, Bhūrišrava un Džajadratha, kā arı̄ daudzi citi cı̄n̦as mākslu labi apguvuši kareivji. Visi vin̦i lieliski rı̄kojas ar dažādiem ieročiem un ir pilni apn̦ēmı̄bas atdot par mani savas dzı̄vı̄bas.
-#### 1.10
+#### #### 1.10
 > अपर्याप्त‍ं तदस्माकं बलं भीष्माभिरक्षितम् ।\
 > पर्याप्त‍ं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥ १० ॥
     aparjāptaṁ tad asmākaṁ balaṁ bhı̄ṣmābhirakṣitam
     parjāptaṁ tv idam eteṣāṁ balaṁ bhı̄mābhirakṣitam
 Pateicoties Bhı̄šmas drošajai aizsardzı̄bai, mūsu karapulka spēks ir neizmērāms. Tikmēr Bhı̄mas sargātās Pāndavu armijas spēks ir ierobežots.
-#### 1.11
+#### #### 1.11
 > अयनेषु च सर्वेषु यथाभागवमस्थिताः ।\
 > भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ॥ ११ ॥
     ajaneṣu ča sarveṣu jathā-bhāgam avasthitāḥ
     bhı̄ṣmam evābhirakṣantu bhavantaḥ sarva eva hi 
 Tādēl̦ mums visiem, kaujas laikā atrodoties savās pozı̄cijās, visos iespējamos veidos jāaizsargā vectēvs Bhı̄šma.
-#### 1.12
+#### #### 1.12
 > तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः ।\
 > सिंहनादं विनद्योच्च‍ैः शङ्खं दध्मौ प्रतापवान् ॥ १२ ॥
     tasja sañdžanajan harṣaṁ kuru-vṛddhaḥ pitāmahaḥ
