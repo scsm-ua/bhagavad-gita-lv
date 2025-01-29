@@ -24,7 +24,7 @@ Kas notika, kad svētajā zemē Kurukšetrā pirms kaujas satikās mani de
     dṛṣṭvā tu pāṇḍavānı̄kaṁ vjūḍhaṁ durjodhanas tadā
     āčārjam upasaṅgamja rādžā vačanam abravı̄t 
     
-Sandžaja atbildēja: 
+Sandžaja atbildēja:\ 
 Pārlaižot skatienu pāri Pāndavu armijas kareivjiem, kas bija izkārtojušies
 kaujas ierindā, valdnieks Durjodhana pietuvojās savam skolotājam Dronāčārjam un vērsās pie vin̦a ar sekojošiem vārdiem.
 
