@@ -19,15 +19,15 @@ Sandžaja! Kas notika, kad svētajā zemē Kurukšetrā pirms kaujas satik
 
 
 #### 1.2
-> 
-सञ्जय उवाच\
-> 
-दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\
-> 
-आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥ २ ॥
+
+> सञ्जय उवाच \
+> दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । \
+> आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥ २ ॥
+
     sañdžaja uvāča
     dṛṣṭvā tu pāṇḍavānı̄kaṁ vjūḍhaṁ durjodhanas tadā
     āčārjam upasaṅgamja rādžā vačanam abravı̄t 
+    
 Sandžaja atbildēja:   
 Pārlaižot skatienu pāri Pāndavu armijas kareivjiem, kas bija izkārtojušies kaujas ierindā, valdnieks Durjodhana pietuvojās savam skolotājam Dronāčārjam un vērsās pie vin̦a ar sekojošiem vārdiem.
 
