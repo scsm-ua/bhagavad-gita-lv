@@ -10,8 +10,8 @@
 > मामका: पाण्डवाश्चैव किमकुर्वत सञ्जय ॥ १ ॥
     dhṛtarāṣṭra uvāča
     dharma-kṣetre kuru-kṣetre samavetā jujutsavaḥ
-    māmakāḥ pāṇḍavāś čaiva kim akurvata sañdžaja 
-Dhritarāštra sacı̄ja:   
+    māmakāḥ pāṇḍavāś čaiva kim akurvata sañdžaja   
+Dhritarāštra sacı̄ja:     
 Sandžaja! Kas notika, kad svētajā zemē Kurukšetrā pirms kaujas satikās mani dēli un Pāndū dēli?
 #### 1.2
 > सञ्जय उवाच\
@@ -19,14 +19,14 @@ Sandžaja! Kas notika, kad svētajā zemē Kurukšetrā pirms kaujas satik
 > आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥ २ ॥
     sañdžaja uvāča
     dṛṣṭvā tu pāṇḍavānı̄kaṁ vjūḍhaṁ durjodhanas tadā
-    āčārjam upasaṅgamja rādžā vačanam abravı̄t 
-Sandžaja atbildēja:   
+    āčārjam upasaṅgamja rādžā vačanam abravı̄t   
+Sandžaja atbildēja:     
 Pārlaižot skatienu pāri Pāndavu armijas kareivjiem, kas bija izkārtojušies kaujas ierindā, valdnieks Durjodhana pietuvojās savam skolotājam Dronāčārjam un vērsās pie vin̦a ar sekojošiem vārdiem.
 #### 1.3
 > पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।\
 > व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥ ३ ॥
     paśjaitāṁ pāṇḍu-putrāṇām āčārja mahatı̄ṁ čamūm 
-    vjūḍhāṁ drupada-putreṇa tava śiṣjeṇa dhı̄matā
+    vjūḍhāṁ drupada-putreṇa tava śiṣjeṇa dhı̄matā  
 Skolotāj! Palūkojies uz Pāndavu vareno karapulku, kuru kaujas ierindā izkārtojis tavs izcilais skolnieks Dhrištadjumna, Drupadas dēls.
 #### 1.4-6
 > अत्र श‍ूरा महेष्वासा भीमार्जुनसमा युधि ।\
