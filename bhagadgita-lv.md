@@ -35,8 +35,9 @@ Pārlaižot skatienu pāri Pāndavu armijas kareivjiem, kas bija izkārtoju
 >व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥ ३ ॥
 
     paśjaitāṁ pāṇḍu-putrāṇām āčārja mahatı̄ṁ čamūm
-vjūḍhāṁ drupada-putreṇa tava śiṣjeṇa dhı̄matā
+    vjūḍhāṁ drupada-putreṇa tava śiṣjeṇa dhı̄matā
 Skolotāj! Palūkojies uz Pāndavu vareno karapulku, kuru kaujas ierindā izkārtojis tavs izcilais skolnieks Dhrištadjumna, Drupadas dēls.
+
 #### 1.4-6
 >अत्र श‍ूरा महेष्वासा भीमार्जुनसमा युधि ।\
 >युयुधानो विराटश्च द्रुपदश्च महारथः ॥ ४ ॥
@@ -46,73 +47,60 @@ Skolotāj! Palūkojies uz Pāndavu vareno karapulku, kuru kaujas ierindā iz
 >सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥ ६ ॥
 
     atra śūrā maheṣvāsā bhı̄mārdžuna-samā judhi
-jujudhāno virāṭaś ča drupadaś ča mahā-rathaḥ
-dhṛṣṭaketuś čekitānaḥ kāśı̄rājaś ča vı̄rjavān
-purudžit kuntibhodžaś ča śaibjaś ča nara-puṅgavaḥ
-judhāmanjuś ča vikrānta uttamaudžāś ča vı̄rjavān
-saubhadro draupadejāś ča sarva eva mahā-rathāḥ
+    jujudhāno virāṭaś ča drupadaś ča mahā-rathaḥ
+    dhṛṣṭaketuś čekitānaḥ kāśı̄rājaś ča vı̄rjavān
+    purudžit kuntibhodžaś ča śaibjaś ča nara-puṅgavaḥ
+    judhāmanjuś ča vikrānta uttamaudžāś ča vı̄rjavān
+    saubhadro draupadejāś ča sarva eva mahā-rathāḥ
 Šajā armijā ir dižie loka šāvēji Bhı̄ma un Ardžūna, kā arı̄ citi tik pat prasmı̄gi kareivji: Satjakı̄, valdnieks Virata, varenais karotājs Drupada, Dhrištaketū, Cekitāna, varonı̄gais rādža Kašı̄, Purūdžita, Kuntibhodža, cēlais rādža Saibja, drosmı̄gais Judhāmanjū, dižais varonis Uttamaudža, Abhimanjū un Draupadı̄ dēli. Bez šaubām, visi vin̦i ir diži kareivji.
 #### 1.7
 >अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।\
 >नायका मम सैन्यस्य संज्ञार्थ तान्ब्रवीमि ते ॥ ७ ॥
 
     asmākaṁ tu viśiṣṭā je tān nibodha dvidžottama
-nājakā mama sainjasja saṁdžñārthaṁ tān bravı̄mi te
+    nājakā mama sainjasja saṁdžñārthaṁ tān bravı̄mi te
 Labākais no divreiz dzimušajiem, uzklausi tagad arı̄ manas armijas izcilākos vadon̦us. Es nosaukšu tev vin̦u vārdus!
 #### 1.8-9
-
- भवान्भीष्मश्च कर्णश्च कृपश्च समितिंजयः ।\
- अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥ ८ ॥
-
-
- अन्ये च बहवः श‍ूरा मदर्थे त्यक्तजीविताः ।\
- नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥ ९ ॥
-
+>भवान्भीष्मश्च कर्णश्च कृपश्च समितिंजयः ।\
+>अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥ ८ ॥
+>अन्ये च बहवः श‍ूरा मदर्थे त्यक्तजीविताः ।\
+>नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥ ९ ॥
     bhavān bhı̄ṣmaś ča karṇaś ča kṛpaś ča samitiñdžajaḥ
-aśvatthāmā vikarṇaś ča saumadattir džajadrathaḥ
-anje ča bahavaḥ śūrā mad-arthe tjakta-džı̄vitāḥ
-nānā-śastra-praharaṇāḥ sarve juddha-viśāradāḥ
-Neskaitot tevi, ak, godājamais, tie ir Bhı̄šma un sakāvi Kripāčārjas kaujā neiepazinošais Karna, kā
-arı̄ Ašvatthāma, Vikarna, Bhūrišrava un Džajadratha, kā arı̄ daudzi citi cı̄n̦as mākslu labi apguvuši kareivji. Visi vin̦i lieliski rı̄kojas ar dažādiem ieročiem un ir pilni apn̦ēmı̄bas atdot par mani savas dzı̄vı̄bas.
-
-
-####
+    aśvatthāmā vikarṇaś ča saumadattir džajadrathaḥ
+    anje ča bahavaḥ śūrā mad-arthe tjakta-džı̄vitāḥ
+    nānā-śastra-praharaṇāḥ sarve juddha-viśāradāḥ
+Neskaitot tevi, ak, godājamais, tie ir Bhı̄šma un sakāvi Kripāčārjas kaujā neiepazinošais Karna, kā arı̄ Ašvatthāma, Vikarna, Bhūrišrava un Džajadratha, kā arı̄ daudzi citi cı̄n̦as mākslu labi apguvuši kareivji. Visi vin̦i lieliski rı̄kojas ar dažādiem ieročiem un ir pilni apn̦ēmı̄bas atdot par mani savas dzı̄vı̄bas.
 
 #### 1.10
 >अपर्याप्त‍ं तदस्माकं बलं भीष्माभिरक्षितम् ।\
 >पर्याप्त‍ं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥ १० ॥
 
     aparjāptaṁ tad asmākaṁ balaṁ bhı̄ṣmābhirakṣitam
-parjāptaṁ tv idam eteṣāṁ balaṁ bhı̄mābhirakṣitam
+    parjāptaṁ tv idam eteṣāṁ balaṁ bhı̄mābhirakṣitam
 Pateicoties Bhı̄šmas drošajai aizsardzı̄bai, mūsu karapulka spēks ir neizmērāms. Tikmēr Bhı̄mas sargātās Pāndavu armijas spēks ir ierobežots.
 
-
-####
 #### 1.11
 >अयनेषु च सर्वेषु यथाभागवमस्थिताः ।\
 >भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ॥ ११ ॥
 
     ajaneṣu ča sarveṣu jathā-bhāgam avasthitāḥ
-bhı̄ṣmam evābhirakṣantu bhavantaḥ sarva eva hi
+    bhı̄ṣmam evābhirakṣantu bhavantaḥ sarva eva hi
 Tādēl̦ mums visiem, kaujas laikā atrodoties savās pozı̄cijās, visos iespējamos veidos jāaizsargā vectēvs Bhı̄šma.
 
-
-####
 #### 1.12
 >तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः ।\
 >सिंहनादं विनद्योच्च‍ैः शङ्खं दध्मौ प्रतापवान् ॥ १२ ॥
 
     tasja sañdžanajan harṣaṁ kuru-vṛddhaḥ pitāmahaḥ
-siṁha-nādaṁ vinadjoččaiḥ śaṅkhaṁ dadhmau
-pratāpavān
+    siṁha-nādaṁ vinadjoččaiḥ śaṅkhaṁ dadhmau pratāpavān
 Vēloties iedvesmot Durjodhanu, Bhı̄šma, Kurū dinastijas vecākais, sāka skal̦i pūst savā gliemežnı̄cā, kuras radı̄tā skan̦a lı̄dzinājās lauvas rēcienam.
 #### 1.13
 >ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।\
 >सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत ॥ १३ ॥
 
     tataḥ śaṅkhāś ča bherjaś ča paṇavānaka-gomukhāḥ
-sahasaivābhjahanjanta sa śabdas tumulo ’bhavat Tajā pašā mirklı̄, radot apdullinošu troksni, vienlaicı̄gi sāka skanēt daudzskaitlı̄gas gliemežnı̄cas,
-timpani, bungas un citi instrumenti.
+    sahasaivābhjahanjanta sa śabdas tumulo ’bhavat 
+Tajā pašā mirklı̄, radot apdullinošu troksni, vienlaicı̄gi sāka skanēt daudzskaitlı̄gas gliemežnı̄cas, timpani, bungas un citi instrumenti.
 #### 1.14
 >ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ ।\
 >माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ॥ १४ ॥
@@ -124,21 +112,18 @@ Tad Srı̄ Krišna un Ardžūna, sēžot augstu majestātiskos kaujas rato
 >पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः ।\
 >पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ॥ १५ ॥
 
-    pāñčadžanjaṁ hṛṣı̄keśo devadattaṁ
-dhanañdžajaḥ
-pauṇḍraṁ dadhmau mahā-śaṅkhaṁ bhı̄ma-karmā vṛkodaraḥ
+    pāñčadžanjaṁ hṛṣı̄keśo devadattaṁ dhanañdžajaḥ
+    pauṇḍraṁ dadhmau mahā-śaṅkhaṁ bhı̄ma-karmā vṛkodaraḥ
 Hrišı̄kēša (Srı̄ Krišna) pūta savu gliemežnı̄cu Pānčadžanjū,
 Dhanandžaja (Ardžūna) — savu gliemežnı̄cu Dēvadattu. Tikmēr ar krāšn̦iem varon̦darbiem slavenais Bhı̄masena, negausı̄gais ēdājs — “vilka
-vēders”,
-pūta
-milzı̄gu
-gliemežnı̄cu Paundru.
+vēders”, pūta milzı̄gu gliemežnı̄cu Paundru.
 #### 1.16
 >अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।\
 >नकुलः सहदेवश्च सुघोषमणिपुष्पकौ ॥ १६ ॥
 
     anantavidžajaṁ rādžā kuntı̄-putro judhiṣṭhiraḥ
-nakulaḥ sahadevaś ča sughoṣa-maṇipuṣpakau Rādža Judhišthira, Kuntı̄ dēls, pūta gliemežnı̄cu Anantavidžaju. Nakula pūta Sughošu, bet Sahadēvs — Manipušpaku.
+    nakulaḥ sahadevaś ča sughoṣa-maṇipuṣpakau 
+Rādža Judhišthira, Kuntı̄ dēls, pūta gliemežnı̄cu Anantavidžaju. Nakula pūta Sughošu, bet Sahadēvs — Manipušpaku.
 #### 1.17-18
 
  धृ ु नो वराट सा य क ापरा जतः ॥१७॥
