@@ -12,18 +12,20 @@
 >मामका: पाण्डवाश्चैव किमकुर्वत सञ्जय ॥ १ ॥
 
     dhṛtarāṣṭra uvāča
-dharma-kṣetre kuru-kṣetre samavetā jujutsavaḥ
-māmakāḥ pāṇḍavāś čaiva kim akurvata sañdžaja
+    dharma-kṣetre kuru-kṣetre samavetā jujutsavaḥ
+    māmakāḥ pāṇḍavāś čaiva kim akurvata sañdžaja
+    
 Dhritarāštra sacı̄ja:
 Sandžaja! Kas notika, kad svētajā zemē Kurukšetrā pirms kaujas satikās mani dēli un Pāndū dēli?
+
 #### 1.2
 >सञ्जय उवाच\
 >दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\
 >आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥ २ ॥
 
     sañdžaja uvāča
-dṛṣṭvā tu pāṇḍavānı̄kaṁ vjūḍhaṁ durjodhanas tadā
-āčārjam upasaṅgamja rādžā vačanam abravı̄t
+    dṛṣṭvā tu pāṇḍavānı̄kaṁ vjūḍhaṁ durjodhanas tadā
+    āčārjam upasaṅgamja rādžā vačanam abravı̄t
 Sandžaja atbildēja:
 Pārlaižot skatienu pāri Pāndavu armijas kareivjiem, kas bija izkārtojušies kaujas ierindā, valdnieks Durjodhana pietuvojās savam skolotājam Dronāčārjam un vērsās pie vin̦a ar sekojošiem vārdiem.
 
